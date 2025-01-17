@@ -70,7 +70,7 @@ const PageTitle = styled.h2`
   margin-top: 16px;
   font-size: 1.75rem;
   font-weight: bold;
-  color: ${colors.greyScale[700]};
+  color: ${colors.greyScale[100]};
 
   @media (max-width: ${BreakpointsEnum.sm}px) {
     font-size: 1.5rem;

@@ -1,13 +1,14 @@
-import React from "react";
 import { Box, Typography, Link, IconButton } from "@mui/material";
 import { GitHub } from "@mui/icons-material";
+import { colors } from "../../../../styles/themes";
+import React from "react";
 
 const Footer = () => {
   return (
     <Box
       component="footer"
       sx={{
-        backgroundColor: "#333",
+        backgroundColor: colors.greyScale[80],
         color: "#fff",
         padding: "20px 0",
         textAlign: "center",

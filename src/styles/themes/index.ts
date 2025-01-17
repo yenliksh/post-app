@@ -29,11 +29,7 @@ export const colors = {
     blueLight: "#8AB2FF1F",
   },
   gradient: {
-    default: "103.36deg, #E4F0F6 51.07%, #F3F6E4 100%",
-    saturation: "103.36deg, #DDEBF2 51.07%, #EAEFCC 100%",
-    preview: "180deg, rgba(255, 255, 255, 0) 40.84%, #FFFFFF 100%",
-    landingLight: "180deg, rgba(53, 57, 64, 0) 0%, rgba(53, 57, 64, 0.74) 100%",
-    landingDark: "180deg, rgba(53, 57, 64, 0) 0%, #353940 100%",
+    default: "135deg, #6a11cb 0%, #2575fc 100%",
   },
   transparent: {
     modal: "rgba(28, 33, 45, 0.3)",
